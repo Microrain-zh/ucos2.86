@@ -1,0 +1,6 @@
+# 忽略f407目录下*.o,*.d,*.crf文件
+app/Objects/*.o
+app/Objects/*.d
+app/Objects/*.crf
+app/*.uvguix.*
+
